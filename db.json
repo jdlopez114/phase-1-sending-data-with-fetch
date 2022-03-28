@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,20 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +33,63 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 1
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 2
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 3
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 4
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 5
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 6
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 7
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 8
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 9
+    },
+    {
+      "name": "Peter",
+      "email": "pparker@esu.edu",
+      "id": 10
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
